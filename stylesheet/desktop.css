@@ -1,0 +1,31 @@
+@media (min-width: 1200px) {
+    body {
+        padding: 5rem 0;
+    }
+
+    main {
+        max-width: 60%;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    section {
+        padding: 2.3rem;
+    }
+
+    section button {
+        margin: 4rem 0 1rem;
+    }
+
+    .sedan {
+        border-radius: 0;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+
+    .luxury {
+        border-radius: 0;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+}
