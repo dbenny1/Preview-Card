@@ -30,7 +30,7 @@ section {
     padding: 3rem;
 }
 
-section h2 {
+section h1 {
     color: var(--lghtGray);
     font-size: 2rem;
     letter-spacing: -2px;
